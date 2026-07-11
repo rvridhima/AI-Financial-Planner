@@ -67,9 +67,9 @@ FinancialPlanner/
 ├── utils.py
 ├── app.py
 │
-├── expenses.csv
+├── data/
+    ├── expenses.csv
 ├── requirements.txt
-├── .env
 └── README.md
 ```
 
