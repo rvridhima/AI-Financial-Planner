@@ -272,7 +272,7 @@ Example:
 
 ## Author
 
-**Ridhima Reddy**
+**Reddy Velangani Ridhima**
 
 B.Tech Computer Science & Engineering
 
