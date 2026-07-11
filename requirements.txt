@@ -1,0 +1,6 @@
+crewai
+ollama
+pandas
+streamlit
+matplotlib
+plotly
